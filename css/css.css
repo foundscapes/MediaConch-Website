@@ -60,3 +60,7 @@ h3 {
 .button-padding {
   padding-bottom: 160px;
 }
+
+th, td {
+    padding: 2px;
+}
