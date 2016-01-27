@@ -17,7 +17,7 @@ title: "Download MediaConch for Apple Mac OS"
       <td>Comment</td>
   </tr>
   <tr>
-      <th rowspan="5">10.5 (Leopard),<br/> 10.6 (Snow Leopard),<br/>10.7 (Lion),<br/>10.8 (Mountain Lion),<br/>10.9 (Mavericks),<br/>10.10 (Yosemite)</th>
+      <th rowspan="4">10.5 (Leopard),<br/> 10.6 (Snow Leopard),<br/>10.7 (Lion),<br/>10.8 (Mountain Lion),<br/>10.9 (Mavericks),<br/>10.10 (Yosemite),<br />10.11 (El Captain)</th>
       <th rowspan="5">x86_64</th>
       <td class="table-OS" colspan="3" id="10.5.x86_64">Mac OS X 10.5 to 10.10, x86_64</td>
   </tr>
