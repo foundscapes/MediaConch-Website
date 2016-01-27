@@ -6,20 +6,21 @@ title: "Download MediaConch"
 
 # Downloads
 
-## 15.12 Release Notes
+## 16.01 Release Notes
 
 ### CLI, GUI and Onlinve version
 
-New icon
-Database support (speed improvement: file is parsed once, then policies are applied to the pre-analyzed content)
-More explicit licences (MediaConch and MediaInfo library are GPLv3+ and MPLv2+, list of third party libraries and their licences)
-Matroska: negative timecodes were not correctly handled
-Better support of non-English filenames
-Display format is applied also on invalid files
-Implementation tests now load logic from an XML representation of the Matroska EBML Schema
-Implementation tests on valid parent elements, element multiplicity, mandated child elements
-MediaTrace now documents the parser used for raw streams within Matroska.
-Sync tests with latest Matroska/EBML draft specifications.
+More Matroska validation tests
+Improved reports
+Verbosity option
+MediaConch server, with a REST API
+MediaConch CLI and GUI can communicate with MediaConch server
+Support of Qt 5.6 (QtWebKit dependancy is replaced by Qt QtWebEngine dependancy)
+Matroska: CRC-32 validation
+Matroska: support of padding/junk at the start of a segment
+Matroska: trace is activated for all elements (but report is still based on the first element met)
+Matroska: add an intermediate level in the trace for the raw stream parser
+Visual Studio 2015 project files
 
 
 ### Historical Release Notes
