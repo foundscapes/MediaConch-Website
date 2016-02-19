@@ -71,7 +71,18 @@ title: "MediaConch Team and Advisors"
     </ul>
   </td>
   <td style="width:25%;text-align:right;">
-    <a href="http://www.ashleyblewer.com"><img src="images/Website16.png" alt="Website"></a><a href="mailto:ashley.blewer@gmail.com"><img src=" images/Email16.png" alt="E-mail"></a><a href="https://www.linkedin.com/in/ashleyblewer"><img src="images/LinkedIn16.png" alt="LinkedIn"></a><a href="https://twitter.com/ablwr"><img src="images/Twitter16.png" alt="Twitter"></a><a href="https://github.com/ablwr"><img src="images/GitHub16.png" alt="GitHub"></a>
+    <a href="http://www.ashleyblewer.com"><img src="images/Website16.png" alt="Website"></a><a href="mailto:ashley.blewer@gmail.com"><img src="images/Email16.png" alt="E-mail"></a><a href="https://www.linkedin.com/in/ashleyblewer"><img src="images/LinkedIn16.png" alt="LinkedIn"></a><a href="https://twitter.com/ablwr"><img src="images/Twitter16.png" alt="Twitter"></a><a href="https://github.com/ablwr"><img src="images/GitHub16.png" alt="GitHub"></a>
+  </td>
+</tr>
+<tr>
+  <td>
+    <ul>
+      <li><strong>Natalie Cadranel</strong> (Archivist)<br/>
+    user experience, community support, technical writing and documentation</li>
+    </ul>
+  </td>
+  <td style="width:25%;text-align:right;">
+    <a href="mailto:natalie.cadranel@gmail.com"><img src="images/Email16.png" alt="E-mail"></a><a href="https://twitter.com/ncadranel"><img src="images/Twitter16.png" alt="Twitter"></a><a href="https://github.com/foundscapes"><img src="images/GitHub16.png" alt="GitHub"></a>
   </td>
 </tr>
 <tr>
