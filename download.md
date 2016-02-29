@@ -6,21 +6,30 @@ title: "Download MediaConch"
 
 # Downloads
 
-## 16.01 Release Notes
+## 16.02 Release Notes
 
-### CLI, GUI and Onlinve version
+### GUI
 
-More Matroska validation tests
-Improved reports
-Verbosity option
-MediaConch server, with a REST API
-MediaConch CLI and GUI can communicate with MediaConch server
-Support of Qt 5.6 (QtWebKit dependancy is replaced by Qt QtWebEngine dependancy)
-Matroska: CRC-32 validation
-Matroska: support of padding/junk at the start of a segment
-Matroska: trace is activated for all elements (but report is still based on the first element met)
-Matroska: add an intermediate level in the trace for the raw stream parser
-Visual Studio 2015 project files
+New page for the results (analyze and update in background, delete/add jobs during the processing of the queue)  
+GUI usage is saved and restored when it is restarted  
+Dynamic selection of the policy and the display format in the policy viewer  
+Dynamic selection of the display format in the implementation viewer  
+CAVPP access and preservation policy sets  
+Update of implementation checker tests, including some FFV1 checks  
+Expanded REST API of the server  
+
+### Online
+
+New page for the results (analyze and update in background, delete/add jobs during the processing of the queue)  
+Update of implementation checker tests, including some FFV1 checks  
+
+### CLI
+
+Update of implementation checker tests, including some FFV1 checks  
+
+### Server
+
+Expanded REST API of the server  
 
 
 ### Historical Release Notes
