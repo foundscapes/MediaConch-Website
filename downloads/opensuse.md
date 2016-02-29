@@ -24,27 +24,27 @@ title: "Download MediaConch for openSUSE"
 </tr>
 <tr>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="https://mediaarea.net/download/binary/mediaconch-gui/16.01/mediaconch-gui-16.01.x86_64.openSUSE_Leap_42.1.rpm">v16.01</a></td>
+    <td><a href="https://mediaarea.net/download/binary/mediaconch-gui/16.02/mediaconch-gui-16.02.x86_64.openSUSE_Leap_42.1.rpm">v16.02</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="https://mediaarea.net/download/binary/mediaconch/16.01/mediaconch-16.01.x86_64.openSUSE_Leap_42.1.rpm">v16.01</a></td>
+    <td><a href="https://mediaarea.net/download/binary/mediaconch/16.02/mediaconch-16.02.x86_64.openSUSE_Leap_42.1.rpm">v16.02</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="https://mediaarea.net/download/binary/mediaconch-server/16.01/mediaconch-server-16.01.x86_64.openSUSE_Leap_42.1.rpm">v16.01</a></td>
+    <td><a href="https://mediaarea.net/download/binary/mediaconch-server/16.02/mediaconch-server-16.02.x86_64.openSUSE_Leap_42.1.rpm">v16.02</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.82/libmediainfo0-0.7.82.x86_64.openSUSE_Leap_42.1.rpm">v0.7.82</a><small> (<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.82/libmediainfo-devel-0.7.82.x86_64.openSUSE_Leap_42.1.rpm">devel</a>)</small></td>
+    <td><a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.83/libmediainfo0-0.7.83.x86_64.openSUSE_Leap_42.1.rpm">v0.7.83</a><small> (<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.83/libmediainfo-devel-0.7.83.x86_64.openSUSE_Leap_42.1.rpm">devel</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
     <th>libzen0</th>
-    <td><a href="https://mediaarea.net/download/binary/libzen0/0.4.32/libzen0-0.4.32.x86_64.openSUSE_Leap_42.1.rpm">v0.4.32</a><small> (<a href="https://mediaarea.net/download/binary/libzen0/0.4.32/libzen-devel-0.4.32.x86_64.openSUSE_Leap_42.1.rpm">devel</a>)</small></td>
+    <td><a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.x86_64.openSUSE_Leap_42.1.rpm">v0.4.33</a><small> (<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.x86_64.openSUSE_Leap_42.1.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 
@@ -55,27 +55,27 @@ title: "Download MediaConch for openSUSE"
 </tr>
 <tr>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="https://mediaarea.net/download/binary/mediaconch-gui/16.01/mediaconch-gui-16.01.i586.openSUSE_Tumbleweed.rpm">v16.01</a></td>
+    <td><a href="https://mediaarea.net/download/binary/mediaconch-gui/16.02/mediaconch-gui-16.02.i586.openSUSE_Tumbleweed.rpm">v16.02</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="https://mediaarea.net/download/binary/mediaconch/16.01/mediaconch-16.01.i586.openSUSE_Tumbleweed.rpm">v16.01</a></td>
+    <td><a href="https://mediaarea.net/download/binary/mediaconch/16.02/mediaconch-16.02.i586.openSUSE_Tumbleweed.rpm">v16.02</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="https://mediaarea.net/download/binary/mediaconch-server/16.01/mediaconch-server-16.01.i586.openSUSE_Tumbleweed.rpm">v16.01</a></td>
+    <td><a href="https://mediaarea.net/download/binary/mediaconch-server/16.02/mediaconch-server-16.02.i586.openSUSE_Tumbleweed.rpm">v16.02</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.82/libmediainfo0-0.7.82.i586.openSUSE_Tumbleweed.rpm">v0.7.82</a><small> (<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.82/libmediainfo-devel-0.7.82.i586.openSUSE_Tumbleweed.rpm">devel</a>)</small></td>
+    <td><a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.83/libmediainfo0-0.7.83.i586.openSUSE_Tumbleweed.rpm">v0.7.83</a><small> (<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.83/libmediainfo-devel-0.7.83.i586.openSUSE_Tumbleweed.rpm">devel</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
     <th>libzen0</th>
-    <td><a href="https://mediaarea.net/download/binary/libzen0/0.4.32/libzen0-0.4.32.i586.openSUSE_Tumbleweed.rpm">v0.4.32</a><small> (<a href="https://mediaarea.net/download/binary/libzen0/0.4.32/libzen-devel-0.4.32.i586.openSUSE_Tumbleweed.rpm">devel</a>)</small></td>
+    <td><a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.i586.openSUSE_Tumbleweed.rpm">v0.4.33</a><small> (<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.i586.openSUSE_Tumbleweed.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
@@ -84,27 +84,27 @@ title: "Download MediaConch for openSUSE"
 </tr>
 <tr>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="https://mediaarea.net/download/binary/mediaconch-gui/16.01/mediaconch-gui-16.01.x86_64.openSUSE_Tumbleweed.rpm">v16.01</a></td>
+    <td><a href="https://mediaarea.net/download/binary/mediaconch-gui/16.02/mediaconch-gui-16.02.x86_64.openSUSE_Tumbleweed.rpm">v16.02</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="https://mediaarea.net/download/binary/mediaconch/16.01/mediaconch-16.01.x86_64.openSUSE_Tumbleweed.rpm">v16.01</a></td>
+    <td><a href="https://mediaarea.net/download/binary/mediaconch/16.02/mediaconch-16.02.x86_64.openSUSE_Tumbleweed.rpm">v16.02</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="https://mediaarea.net/download/binary/mediaconch-server/16.01/mediaconch-server-16.01.x86_64.openSUSE_Tumbleweed.rpm">v16.01</a></td>
+    <td><a href="https://mediaarea.net/download/binary/mediaconch-server/16.02/mediaconch-server-16.02.x86_64.openSUSE_Tumbleweed.rpm">v16.02</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.82/libmediainfo0-0.7.82.x86_64.openSUSE_Tumbleweed.rpm">v0.7.82</a><small> (<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.82/libmediainfo-devel-0.7.82.x86_64.openSUSE_Tumbleweed.rpm">devel</a>)</small></td>
+    <td><a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.83/libmediainfo0-0.7.83.x86_64.openSUSE_Tumbleweed.rpm">v0.7.83</a><small> (<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.83/libmediainfo-devel-0.7.83.x86_64.openSUSE_Tumbleweed.rpm">devel</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
     <th>libzen0</th>
-    <td><a href="https://mediaarea.net/download/binary/libzen0/0.4.32/libzen0-0.4.32.x86_64.openSUSE_Tumbleweed.rpm">v0.4.32</a><small> (<a href="https://mediaarea.net/download/binary/libzen0/0.4.32/libzen-devel-0.4.32.x86_64.openSUSE_Tumbleweed.rpm">devel</a>)</small></td>
+    <td><a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.x86_64.openSUSE_Tumbleweed.rpm">v0.4.33</a><small> (<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.x86_64.openSUSE_Tumbleweed.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 
@@ -115,27 +115,27 @@ title: "Download MediaConch for openSUSE"
 </tr>
 <tr>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="https://mediaarea.net/download/binary/mediaconch-gui/16.01/mediaconch-gui-16.01.i586.openSUSE_13.2.rpm">v16.01</a></td>
+    <td><a href="https://mediaarea.net/download/binary/mediaconch-gui/16.02/mediaconch-gui-16.02.i586.openSUSE_13.2.rpm">v16.02</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="https://mediaarea.net/download/binary/mediaconch/16.01/mediaconch-16.01.i586.openSUSE_13.2.rpm">v16.01</a></td>
+    <td><a href="https://mediaarea.net/download/binary/mediaconch/16.02/mediaconch-16.02.i586.openSUSE_13.2.rpm">v16.02</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="https://mediaarea.net/download/binary/mediaconch-server/16.01/mediaconch-server-16.01.i586.openSUSE_13.2.rpm">v16.01</a></td>
+    <td><a href="https://mediaarea.net/download/binary/mediaconch-server/16.02/mediaconch-server-16.02.i586.openSUSE_13.2.rpm">v16.02</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.82/libmediainfo0-0.7.82.i586.openSUSE_13.2.rpm">v0.7.82</a><small> (<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.82/libmediainfo-devel-0.7.82.i586.openSUSE_13.2.rpm">devel</a>)</small></td>
+    <td><a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.83/libmediainfo0-0.7.83.i586.openSUSE_13.2.rpm">v0.7.83</a><small> (<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.83/libmediainfo-devel-0.7.83.i586.openSUSE_13.2.rpm">devel</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
     <th>libzen0</th>
-    <td><a href="https://mediaarea.net/download/binary/libzen0/0.4.32/libzen0-0.4.32.i586.openSUSE_13.2.rpm">v0.4.32</a><small> (<a href="https://mediaarea.net/download/binary/libzen0/0.4.32/libzen-devel-0.4.32.i586.openSUSE_13.2.rpm">devel</a>)</small></td>
+    <td><a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.i586.openSUSE_13.2.rpm">v0.4.33</a><small> (<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.i586.openSUSE_13.2.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
@@ -144,27 +144,27 @@ title: "Download MediaConch for openSUSE"
 </tr>
 <tr>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="https://mediaarea.net/download/binary/mediaconch-gui/16.01/mediaconch-gui-16.01.x86_64.openSUSE_13.2.rpm">v16.01</a></td>
+    <td><a href="https://mediaarea.net/download/binary/mediaconch-gui/16.02/mediaconch-gui-16.02.x86_64.openSUSE_13.2.rpm">v16.02</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="https://mediaarea.net/download/binary/mediaconch/16.01/mediaconch-16.01.x86_64.openSUSE_13.2.rpm">v16.01</a></td>
+    <td><a href="https://mediaarea.net/download/binary/mediaconch/16.02/mediaconch-16.02.x86_64.openSUSE_13.2.rpm">v16.02</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="https://mediaarea.net/download/binary/mediaconch-server/16.01/mediaconch-server-16.01.x86_64.openSUSE_13.2.rpm">v16.01</a></td>
+    <td><a href="https://mediaarea.net/download/binary/mediaconch-server/16.02/mediaconch-server-16.02.x86_64.openSUSE_13.2.rpm">v16.02</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.82/libmediainfo0-0.7.82.x86_64.openSUSE_13.2.rpm">v0.7.82</a><small> (<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.82/libmediainfo-devel-0.7.82.x86_64.openSUSE_13.2.rpm">devel</a>)</small></td>
+    <td><a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.83/libmediainfo0-0.7.83.x86_64.openSUSE_13.2.rpm">v0.7.83</a><small> (<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.83/libmediainfo-devel-0.7.83.x86_64.openSUSE_13.2.rpm">devel</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
     <th>libzen0</th>
-    <td><a href="https://mediaarea.net/download/binary/libzen0/0.4.32/libzen0-0.4.32.x86_64.openSUSE_13.2.rpm">v0.4.32</a><small> (<a href="https://mediaarea.net/download/binary/libzen0/0.4.32/libzen-devel-0.4.32.x86_64.openSUSE_13.2.rpm">devel</a>)</small></td>
+    <td><a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.x86_64.openSUSE_13.2.rpm">v0.4.33</a><small> (<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.x86_64.openSUSE_13.2.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
@@ -174,27 +174,27 @@ title: "Download MediaConch for openSUSE"
 </tr>
 <tr>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="https://mediaarea.net/download/binary/mediaconch-gui/16.01/mediaconch-gui-16.01.i586.openSUSE_13.1.rpm">v16.01</a></td>
+    <td><a href="https://mediaarea.net/download/binary/mediaconch-gui/16.02/mediaconch-gui-16.02.i586.openSUSE_13.1.rpm">v16.02</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="https://mediaarea.net/download/binary/mediaconch/16.01/mediaconch-16.01.i586.openSUSE_13.1.rpm">v16.01</a></td>
+    <td><a href="https://mediaarea.net/download/binary/mediaconch/16.02/mediaconch-16.02.i586.openSUSE_13.1.rpm">v16.02</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="https://mediaarea.net/download/binary/mediaconch-server/16.01/mediaconch-server-16.01.i586.openSUSE_13.1.rpm">v16.01</a></td>
+    <td><a href="https://mediaarea.net/download/binary/mediaconch-server/16.02/mediaconch-server-16.02.i586.openSUSE_13.1.rpm">v16.02</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.82/libmediainfo0-0.7.82.i586.openSUSE_13.1.rpm">v0.7.82</a><small> (<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.82/libmediainfo-devel-0.7.82.i586.openSUSE_13.1.rpm">devel</a>)</small></td>
+    <td><a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.83/libmediainfo0-0.7.83.i586.openSUSE_13.1.rpm">v0.7.83</a><small> (<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.83/libmediainfo-devel-0.7.83.i586.openSUSE_13.1.rpm">devel</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
     <th>libzen0</th>
-    <td><a href="https://mediaarea.net/download/binary/libzen0/0.4.32/libzen0-0.4.32.i586.openSUSE_13.1.rpm">v0.4.32</a><small> (<a href="https://mediaarea.net/download/binary/libzen0/0.4.32/libzen-devel-0.4.32.i586.openSUSE_13.1.rpm">devel</a>)</small></td>
+    <td><a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.i586.openSUSE_13.1.rpm">v0.4.33</a><small> (<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.i586.openSUSE_13.1.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
@@ -203,27 +203,27 @@ title: "Download MediaConch for openSUSE"
 </tr>
 <tr>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="https://mediaarea.net/download/binary/mediaconch-gui/16.01/mediaconch-gui-16.01.x86_64.openSUSE_13.1.rpm">v16.01</a></td>
+    <td><a href="https://mediaarea.net/download/binary/mediaconch-gui/16.02/mediaconch-gui-16.02.x86_64.openSUSE_13.1.rpm">v16.02</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="https://mediaarea.net/download/binary/mediaconch/16.01/mediaconch-16.01.x86_64.openSUSE_13.1.rpm">v16.01</a></td>
+    <td><a href="https://mediaarea.net/download/binary/mediaconch/16.02/mediaconch-16.02.x86_64.openSUSE_13.1.rpm">v16.02</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="https://mediaarea.net/download/binary/mediaconch-server/16.01/mediaconch-server-16.01.x86_64.openSUSE_13.1.rpm">v16.01</a></td>
+    <td><a href="https://mediaarea.net/download/binary/mediaconch-server/16.02/mediaconch-server-16.02.x86_64.openSUSE_13.1.rpm">v16.02</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.82/libmediainfo0-0.7.82.x86_64.openSUSE_13.1.rpm">v0.7.82</a><small> (<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.82/libmediainfo-devel-0.7.82.x86_64.openSUSE_13.1.rpm">devel</a>)</small></td>
+    <td><a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.83/libmediainfo0-0.7.83.x86_64.openSUSE_13.1.rpm">v0.7.83</a><small> (<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.83/libmediainfo-devel-0.7.83.x86_64.openSUSE_13.1.rpm">devel</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
     <th>libzen0</th>
-    <td><a href="https://mediaarea.net/download/binary/libzen0/0.4.32/libzen0-0.4.32.x86_64.openSUSE_13.1.rpm">v0.4.32</a><small> (<a href="https://mediaarea.net/download/binary/libzen0/0.4.32/libzen-devel-0.4.32.x86_64.openSUSE_13.1.rpm">devel</a>)</small></td>
+    <td><a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.x86_64.openSUSE_13.1.rpm">v0.4.33</a><small> (<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.x86_64.openSUSE_13.1.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 
