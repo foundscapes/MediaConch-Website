@@ -23,22 +23,22 @@ title: "Download MediaConch for Apple Mac OS"
   </tr>
   <tr>
       <th>GUI</th>
-      <td><a href="https://mediaarea.net/download/binary/mediaconch-gui/16.01/MediaConch_GUI_16.01_Mac.dmg">v16.01</a></td>
+      <td><a href="https://mediaarea.net/download/binary/mediaconch-gui/16.02/MediaConch_GUI_16.02_Mac.dmg">v16.02</a></td>
       <td>&nbsp;</td>
   </tr>
   <tr>
       <th>CLI</th>
-      <td><a href="https://mediaarea.net/download/binary/mediaconch/16.01/MediaConch_CLI_16.01_Mac.dmg">v16.01</a></td>
+      <td><a href="https://mediaarea.net/download/binary/mediaconch/16.02/MediaConch_CLI_16.02_Mac.dmg">v16.02</a></td>
       <td>&nbsp;</td>
   </tr>
   <tr>
       <th>Server</th>
-      <td><a href="https://mediaarea.net/download/binary/mediaconch-server/16.01/MediaConch_Server_16.01_Mac.dmg">v16.01</a></td>
+      <td><a href="https://mediaarea.net/download/binary/mediaconch-server/16.02/MediaConch_Server_16.02_Mac.dmg">v16.02</a></td>
       <td>&nbsp;</td>
   </tr>
   <tr>
       <th>DyLib</th>
-      <td><a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.82/MediaInfo_DLL_0.7.82_Mac_i386+x86_64.tar.bz2">v0.7.82</a></td>
+      <td><a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.83/MediaInfo_DLL_0.7.83_Mac_i386+x86_64.tar.bz2">v0.7.83</a></td>
       <td>Currently with the same API as libmediainfo</td>
   </tr>
   <tr>
