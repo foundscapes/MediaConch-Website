@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: documentation/GettingStarted.html
-title: "Documentation: Getting Started"
+title: "Documentation: FAQ"
 ---
 
 # Getting Started
