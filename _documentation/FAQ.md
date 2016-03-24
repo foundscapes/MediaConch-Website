@@ -34,6 +34,10 @@ MediaConch analyzes preservation-level audiovisual files for use in memory insti
 
 <b>Preservation Standardization:</b> Since digital files deteriorate over time, archives can assure that their files are interoperable and conform to established preservation standards by checking that they adhere to format specifications using MediaConch. Such checking will allow for revitalization of potentially corrupt files, prompting an archive, to correct errors within the file when necessary or create new preservation-level files when feasible.
 
+<b>OAIS Adherence:</b> The conformance checking of files helps archives adhere to the OAIS (Open Archival Information System) reference model. Files can be checked for conformance upon initial digitization, upon ingest into a digital repository, upon migration to different locations, and during regular quality control and checkups, as defined by the implementing memory institution.
+
+<b>QA Expansion:</b> Quality control can be better monitored through MediaConch through algorithmic detection of conformance errors as well as the supplemental institution-based policy conformance checker.  Since files are checked in a systematic way, preservationists can know definitively whether or not the file is working or how the file has changed since the last time it was reviewed (whether that is from previous quality analysis or during digitization, ingestion, or migration. The result is further usability of files, while also maintaining constant contact between the producer and consumer of content, once again adhering to OAIS standards.
+
 <b>Streamlining & Customizing Routine File Checkup Process:</b> Conformance checking with MediaConch allows institutions to perform routine file checkups in a streamlined process. Such checkup standards can be altered according to shifts in standards regarding preservation-level quality, whether established internally or externally. MediaConch allows for potential users to establish their own standards, choosing files based on personal conformance preferences, which can be altered to fit specific, situational needs.
 
 
