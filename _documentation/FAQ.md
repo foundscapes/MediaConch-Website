@@ -45,7 +45,7 @@ MediaConch analyzes preservation-level audiovisual files for use in memory insti
 One example:
 
 Ingest → migration → digitization → QA → Access
-<div style="margin:0 auto; text-align:left; width:700px;">↕</div>
+<div style="margin:0 auto; text-align:center; width:700px;">↕</div>
 <div style="margin:0 auto; text-align:left; width:700px;">MediaConch</div>
 				                             
 ## How can I provide feedback?
