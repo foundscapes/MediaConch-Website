@@ -45,10 +45,10 @@ MediaConch analyzes preservation-level audiovisual files for use in memory insti
 One example:
 
 Ingest → migration → digitization → QA → Access
-					                                ↕
-				                             MediaConch
+				     ↕
+				 MediaConch
 				                             
-	## How can I provide feedback?
+## How can I provide feedback?
 
 Feedback such as requests for clarifications, suggestions, enhancements, or reports of bugs is important for MediaConch. If you find an issue, please visit the <a href="https://github.com/MediaArea/MediaAreaXml/issues">issue tracker at MediaArea’s GitHub repository</a> for the project and create a new issue, where you can describe your suggestion or the bug you’ve found. This would be incredibly helpful and would enable us to improve the tools and experience for you, our intended users.  Once submitted, the issue will be in the public issue tracker and the development team can respond to it or associate improvements to it. 
 				                             
