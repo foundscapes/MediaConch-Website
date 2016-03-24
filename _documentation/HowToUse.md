@@ -13,7 +13,7 @@ title: "Documentation: How To Use"
   <li>Choose a policy</li>
   <li>Choose a file</li>
   <ul>
-  <li>You can check a [local file](https://mediaarea.net/MediaConch/documentation/HowToUse.html#check-local-file) by selecting the “check file by upload” tab</li>
+  <li>You can check a [local file](#check-local-file) by selecting the “check file by upload” tab</li>
   <li>Choose one from [the Internet](https://mediaarea.net/MediaConch/documentation/HowToUse.html#check-online-file) by selecting the “check online files” tab, or</li>
   <li>Use the test files uploaded to the server by selecting the “check server files” tab</li>
   </ul>
