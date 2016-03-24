@@ -6,6 +6,23 @@ title: "Documentation: How To Use"
 
 #How To Use
 
+##Checking files with the Online GUI 
+<ol type="1">
+  <li>Go here for the latest version: https://mediaarea.net/MediaConchOnline/checker</li>
+  <li>Register an account by creating  your username / password, which will be emailed to you with instructions. Then log in.</li>
+  <li>Choose a policy</li>
+  <li>Choose a file</li>
+  <ul>
+  <li>You can check a <a href="https://mediaarea.net/MediaConch/documentation/HowToUse.html#check-local-file">local file</a> by selecting the “check file by upload” tab</li>
+  <li>Choose one from <a href="https://mediaarea.net/MediaConch/documentation/HowToUse.html#check-online-file">online</a> by selecting the “check online files” tab, or</li>
+  <li>Use the test files uploaded to the server by selecting the “check server files” tab</li>
+  </ul>
+
+  <li>Click “Check Files”</li>
+  <li>Once checked, the results will appear below and you can see the reports for each section by clicking on the “eyecon” (3rd screenshot) or download them by clicking </li>
+
+</ol>
+
 ##Checker
 - [Check local file](#check-local-file)
 - [Check online file](#check-online-file)
