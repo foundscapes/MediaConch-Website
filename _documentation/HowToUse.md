@@ -19,9 +19,10 @@ title: "Documentation: How To Use"
   </ul>
 
   <li>Click “Check Files”</li>
-  <li>Once checked, the results will appear below and you can see the reports for each section by clicking on the “eyecon” (3rd screenshot) or download them by clicking </li>
-
+  <li>Once checked, the results will appear below and you can see the reports for each section by clicking on the “eyecon” ![eyecon][images/eyecon.png] (3rd screenshot) or download them by clicking the ![down arrow][images/downArrow.png]</li>
 </ol>
+e
+MediaConch currently consists of three main sections, “Checker,” “Policies,” and “Display.”
 
 ##Checker
 - [Check local file](#check-local-file)
@@ -73,7 +74,7 @@ Example: */Users/mycomputer/mediafiles/*
 
 ###Reporting
 
-Once a file or files are “checked,” several conformance checking reports are generated. These reports are made viewable by clicking on the “eye” icon next to each report, where, in ”View Mode,” a report is overlaid onto the GUI for review. 
+Once a file or files are “checked,” several conformance checking reports are generated. These reports are made viewable by clicking on the “eyecon" next to each report, where, in ”View Mode,” a report is overlaid onto the GUI for review. 
 
 ###Policy Report
 
