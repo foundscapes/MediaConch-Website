@@ -295,15 +295,7 @@ The MediaTrace XML is a technical reporting tool that expresses the binary archi
 
 ##Structure of a MediaTrace XML
 
-The root element of the MediaTrace XML exists as . This root element contains a `` sub-element denoting the version of MediaInfo’s library used in generating the trace report:
-	<MediaTrace
-	xmlns="https://mediaarea.net/mediatrace"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="https://mediaarea.net/mediatrace https://mediaarea.net/mediatrace/mediatrace_0_1.xsd"
-	version="0.1"
-	ref="/Users/mycomputer//files/ffv1.mkv">
-	<creatingLibrary version="0.7.78" url="https://mediaarea.net/MediaInfo">MediaInfoLib</creatingLibrary>`
-
+This root element contains a `` sub-element denoting the version of MediaInfo’s library used in generating the trace report.
 
 Many audiovisual formats are based on chunk-based storage where a block of data will either contain a data payload or other blocks. In QuickTime parlance these blocks are called atoms, in AVI “chunks”, and in Matroska, “elements”. MediaTrace will attempt to parse apart each block into subdivisions and report on their contents. Whether the source format specification calls it element, atom, chunk, or another term, MediaTrace will call it a<block>. In MediaTrace the contents of the block are called <data>:
    <block offset="28" name="DocType" info="matroska" size="11">
