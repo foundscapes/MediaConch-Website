@@ -24,7 +24,8 @@ Supported Formats:
 <ul>
 <li><b><a href="https://en.wikipedia.org/wiki/MatroskaMatroska">Matroska</a></b> is a multimedia container format with files ending in the suffix of .mkv or .webm. Matroska is a file container, or wrapper, meaning that it holds encoded video and audio streams as well as supplemental metadata. Matroska files are based upon <a href="https://github.com/MediaArea/ebml-specification/blob/master/specification.markdown">EBML</a>, a binary file format similar to XML.</li> 
 <li><b><a href="https://en.wikipedia.org/wiki/FFV1">FFV1</a></b> is a lossless, open source codec developed by FFmpeg.</li>
-<li><b><a href="https://en.wikipedia.org/wiki/Pulse-code_modulation">LPCM</a></b> is a method for encoding audio. It is an uncompressed audio format.</li> 
+<li><b><a href="https://en.wikipedia.org/wiki/Pulse-code_modulation">LPCM</a></b> is a method for encoding audio. It is an uncompressed audio format.</li>
+</ul>
 
 MediaConch’s target of the implementation checker is currently compatible with these supported formats: Matroska-wrapped video files encoded with FFV1 (File Format Video Codec 1) and LPCM (Linear Pulse Code Modulation). The goal of MediaConch is to check open source preservation-level files for archival conformance at the file level and within the localized policy level per the institution. Because MediaConch builds on MediaInfo, it can provide general file information and analysis on many <a href="https://mediaarea.net/en/MediaInfo/Support/Formats">digital media files</a> and will be extended to a larger variety of formats.
 
@@ -42,6 +43,4 @@ MediaConch analyzes preservation-level audiovisual files for use in memory insti
 
 ## How can I provide feedback?
 
-Feedback such as requests for clarifications, suggestions, enhancements, or reports of bugs is important for MediaConch. If you find an issue, please visit the <a href="https://github.com/MediaArea/MediaAreaXml/issues">issue tracker at MediaArea’s GitHub repository</a> for the project and create a new issue, where you can describe your suggestion or the bug you’ve found. This would be incredibly helpful and would enable us to improve the tools and experience for you, our intended users.  Once submitted, the issue will be in the public issue tracker and the development team can respond to it or associate improvements to it. 
-				                             
-				                             
+Feedback such as requests for clarifications, suggestions, enhancements, or reports of bugs is important for MediaConch. If you find an issue, please visit the <a href="https://github.com/MediaArea/MediaAreaXml/issues">issue tracker at MediaArea’s GitHub repository</a> for the project and create a new issue, where you can describe your suggestion or the bug you’ve found. This would be incredibly helpful and would enable us to improve the tools and experience for you, our intended users.  Once submitted, the issue will be in the public issue tracker and the development team can respond to it or associate improvements to it.

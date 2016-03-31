@@ -8,32 +8,32 @@ title: "Documentation: How To Use"
 
 ##Checking files with the Online GUI 
 <ol type="1">
-  <li>Go here for the latest version: https://mediaarea.net/MediaConchOnline/checker</li>
+  <li>Go here for the latest version: [https://mediaarea.net/MediaConchOnline/checker](https://mediaarea.net/MediaConchOnline/checker)</li>
   <li>Register an account by creating  your username / password, which will be emailed to you with instructions. Then log in.</li>
   <li>Choose a policy</li>
   <li>Choose a file</li>
   <ul>
-    <li>You can check a [local file](#check-local-file) by selecting the “check file by upload” tab</li>
-    <li>Choose one from [the Internet](https://mediaarea.net/MediaConch/documentation/HowToUse.html#check-online-file) by         selecting the “check online files” tab, or</li>
+    <li>You can check a <a href="#check-local-file">local file</a> by selecting the “check file by upload” tab</li>
+    <li>Choose one from <a href="#check-online-file">the Internet</a> by selecting the “check online files” tab, or</li>
     <li>Use the test files uploaded to the server by selecting the “check server files” tab</li>
   </ul>
 
   <li>Click “Check Files”</li>
-  <li>Once checked, the results will appear below and you can see the reports for each section by clicking on the “eyecon” ![eyecon][images/eyecon.png] (3rd screenshot) or download them by clicking the ![down arrow][images/downArrow.png]</li>
+  <li>Once checked, the results will appear below and you can see the reports for each section by clicking on the “eyecon” ![eyecon](../images/eyecon.png) (3rd screenshot) or download them by clicking the ![down arrow](../images/downArrow.png)</li>
 </ol>
 
 Checker:
 
-[MediaConchOnlineGuiHome][MCOnlineGUI1Home.png]
-[MediaConchOnlineGuiChecked][MCOnlineGUI2Checked.png]
+![MediaConchOnlineGuiHome](../images/MCOnlineGUI1Home.png)
+![MediaConchOnlineGuiChecked](../images/MCOnlineGUI2Checked.png)
 
 Policy Report:
 
-[MediaConchOnlineGUIPolicyReport][MCOnlineGUI3PolicyReport.png]
+![MediaConchOnlineGUIPolicyReport](../images/MCOnlineGUI3PolicyReport.png)
 
 Policies:
 
-[MediaConchOnlineGUIPolicies][MCOnlineGUI4Policies.png]
+![MediaConchOnlineGUIPolicies](../images/MCOnlineGUI4Policies.png)
 
 ###MediaConch currently consists of three main sections: “Checker,” “Policies,” and “Display.”
 
