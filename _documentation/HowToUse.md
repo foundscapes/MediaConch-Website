@@ -19,7 +19,7 @@ title: "Documentation: How To Use"
   </ul>
 
   <li>Click “Check Files”</li>
-  <li>Once checked, the results will appear below and you can see the reports for each section by clicking on the “eyecon” ![eyecon](../images/eyecon.png) (3rd screenshot) or download them by clicking the ![down arrow](../images/downArrow.png)</li>
+  <li>Once checked, the results will appear below and you can see the reports for each section by clicking on the “eyecon” <img src="../images/eyecon.png" alt="eyecon" /> (3rd screenshot) or download them by clicking the <img src="../images/downArrow.png" alt="down arrow" /></li>
 </ol>
 
 Checker:
