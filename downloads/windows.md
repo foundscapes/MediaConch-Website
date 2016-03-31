@@ -20,9 +20,9 @@ title: "Download MediaConch for Microsoft Windows"
 </thead>
 <tbody>
 <tr>
-    <th rowspan="12">Windows XP, Vista, 7, 8, 10</th>
+    <th rowspan="12">Windows Vista, 7, 8, 10</th>
     <th rowspan="2">Universal installer (32/64 bit)</th>
-    <td class="table-OS" colspan="3" id="i386">Windows XP to 10, 32/64 bit</td>
+    <td class="table-OS" colspan="3" id="i386">Windows Vista to 10, 32/64 bit</td>
 </tr>
 <tr>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
@@ -31,7 +31,7 @@ title: "Download MediaConch for Microsoft Windows"
 </tr>
 <tr>
     <th rowspan="5">32 bit</th>
-    <td class="table-OS" colspan="3" id="i386">Windows XP to 10, 32 bit</td>
+    <td class="table-OS" colspan="3" id="i386">Windows Vista to 10, 32 bit</td>
 </tr>
 <tr>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
