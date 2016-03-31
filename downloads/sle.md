@@ -16,6 +16,38 @@ title: "Download MediaConch for SUSE Linux Enterprise"
     <td>Version</td>
     <td>Comment</td>
 </tr>
+
+<tr>
+    <th rowspan="6" id="12_SP1">12_SP1</th>
+    <th rowspan="6">x86_64</th>
+    <td class="table-OS" colspan="3" id="12_SP1.x86_64">SUSE Linux Enterprise 12_SP1, x86_64</td>
+</tr>
+<tr>
+    <th><abbr title="Graphical User Interface">GUI</abbr></th>
+    <td><a href="https://mediaarea.net/download/binary/mediaconch-gui/16.03/mediaconch-gui-16.03.x86_64.SLE_12_SP1.rpm">v16.03</a></td>
+    <td>requires libmediainfo0</td>
+</tr>
+<tr>
+    <th><abbr title="Command Line Interface">CLI</abbr></th>
+    <td><a href="https://mediaarea.net/download/binary/mediaconch/16.03/mediaconch-16.03.x86_64.SLE_12_SP1.rpm">v16.03</a></td>
+    <td>requires libmediainfo0</td>
+</tr>
+<tr>
+    <th><abbr title="Server">Server</abbr></th>
+    <td><a href="https://mediaarea.net/download/binary/mediaconch-server/16.03/mediaconch-server-16.03.x86_64.SLE_12_SP1.rpm">v16.03</a></td>
+    <td>requires libmediainfo0</td>
+</tr>
+<tr>
+    <th>libmediainfo0</th>
+    <td><a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.84/libmediainfo0-0.7.84.x86_64.SLE_12_SP1.rpm">v0.7.84</a><small> (<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.84/libmediainfo-devel-0.7.84.x86_64.SLE_12_SP1.rpm">devel</a>)</small></td>
+    <td>requires libzen0</td>
+</tr>
+<tr>
+    <th>libzen0</th>
+    <td><a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.x86_64.SLE_12_SP1.rpm">v0.4.33</a><small> (<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.x86_64.SLE_12_SP1.rpm">devel</a>)</small></td>
+    <td>&nbsp;</td>
+</tr>
+
 <tr>
     <th rowspan="6" id="12">12</th>
     <th rowspan="6">x86_64</th>
@@ -23,22 +55,22 @@ title: "Download MediaConch for SUSE Linux Enterprise"
 </tr>
 <tr>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
-    <td><a href="https://mediaarea.net/download/binary/mediaconch-gui/16.02/mediaconch-gui-16.02.x86_64.SLE_12.rpm">v16.02</a></td>
+    <td><a href="https://mediaarea.net/download/binary/mediaconch-gui/16.03/mediaconch-gui-16.03.x86_64.SLE_12.rpm">v16.03</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
-    <td><a href="https://mediaarea.net/download/binary/mediaconch/16.02/mediaconch-16.02.x86_64.SLE_12.rpm">v16.02</a></td>
+    <td><a href="https://mediaarea.net/download/binary/mediaconch/16.03/mediaconch-16.03.x86_64.SLE_12.rpm">v16.03</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th><abbr title="Server">Server</abbr></th>
-    <td><a href="https://mediaarea.net/download/binary/mediaconch-server/16.02/mediaconch-server-16.02.x86_64.SLE_12.rpm">v16.02</a></td>
+    <td><a href="https://mediaarea.net/download/binary/mediaconch-server/16.03/mediaconch-server-16.03.x86_64.SLE_12.rpm">v16.03</a></td>
     <td>requires libmediainfo0</td>
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.83/libmediainfo0-0.7.83.x86_64.SLE_12.rpm">v0.7.83</a><small> (<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.83/libmediainfo-devel-0.7.83.x86_64.SLE_12.rpm">devel</a>)</small></td>
+    <td><a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.84/libmediainfo0-0.7.84.x86_64.SLE_12.rpm">v0.7.84</a><small> (<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.84/libmediainfo-devel-0.7.84.x86_64.SLE_12.rpm">devel</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
