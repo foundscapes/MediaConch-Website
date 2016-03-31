@@ -8,8 +8,6 @@ title: "Documentation: About"
 
 Copyright ©: 2015-2016, MediaArea.net SARL. All Rights Reserved. 
 
-Version 15.09 
-
 MediaConch is licensed under a GPLv3+/MPLv2+ License. 
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. 
@@ -43,5 +41,6 @@ Other team members are:
 - Ashley Blewer (Archivist): technical writing and documentation, design and user experience optimization 
 - Tessa Fallon (Archivist): community outreach and standards organization 
 - Erik Piil (Archivist): technical writing and documentation, OAIS compliance support 
+- Natalie Cadranel (Archivist): user experience, community support, technical writing and documentation 
  
 This project has received funding from [PREFORMA](http://preforma-project.eu), co-funded by the European Commission under its FP7-ICT Programme 
