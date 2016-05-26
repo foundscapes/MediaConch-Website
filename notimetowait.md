@@ -43,3 +43,5 @@ Together!
 The schedule of the event is under development, if you have an idea for the agenda item or presentation on FFV1 and/or Matroska or audiovisual digital preservation, please feel welcome to contact <info@mediaarea.net> for your ideas or share thoughts via comments on our working document.
 
 \* Event title inspiration from [https://blogs.loc.gov/digitalpreservation/2014/12/comparing-formats-for-video-digitization/](https://blogs.loc.gov/digitalpreservation/2014/12/comparing-formats-for-video-digitization/)
+
+The MediaConch project and this symposium has received funding from [PREFORMA](http://www.preforma-project.eu/), co-funded by the European Commission under its FP7-ICT Programme.
