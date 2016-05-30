@@ -6,29 +6,26 @@ title: "Download MediaConch"
 
 # Downloads
 
-## 16.04 Release Notes
+## 16.05 Release Notes
 
 ### GUI, Online, CLI, Server
 
-FFV1: display of the trace of the slice header  
-Display information correctly even if the file disappeared (renamed / not accessible)  
+MediaConch XML format v0.2  
+Improved Matroska tests  
+Improved HTML display  
+FFV1 parsing speed improvement  
 
 ### GUI
 
-Check a directory recursively  
-New checker page based on MediaConchOnline  
-New settings : default policy, default display, default path for file open  
-Remember the last policy used, the last display used, the last path used  
-
-### CLI
-
-Check a directory recursively  
-Accepts MediaInfo options  
+Option for applying a policy to all open files  
+List of values for several elements in the policy editor  
+Minor UI improvements/fixes  
 
 ### Online
 
-Display status/error messages  
-Minor UI enhancements  
+Option for applying a policy to all open files  
+User settings : default policy, default display, default verbosity  
+Minor UI improvements/fixes  
 
 ### Historical Release Notes
 
