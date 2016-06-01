@@ -39,12 +39,12 @@ title: "Download MediaConch for openSUSE"
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo0-0.7.86.x86_64.openSUSE_Leap_42.1.rpm">v0.7.86</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.x86_64.openSUSE_Leap_42.1.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo0-0.7.86.x86_64.openSUSE_Leap_42.1.rpm">v0.7.86</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.x86_64.openSUSE_Leap_42.1.rpm">devel</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
     <th>libzen0</th>
-    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.x86_64.openSUSE_Leap_42.1.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.x86_64.openSUSE_Leap_42.1.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.x86_64.openSUSE_Leap_42.1.rpm">v0.4.33</a> <small>(<a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.x86_64.openSUSE_Leap_42.1.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
@@ -66,12 +66,12 @@ title: "Download MediaConch for openSUSE"
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo0-0.7.86.x86_64.openSUSE_Tumbleweed.rpm">v0.7.86</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.x86_64.openSUSE_Tumbleweed.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo0-0.7.86.x86_64.openSUSE_Tumbleweed.rpm">v0.7.86</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.x86_64.openSUSE_Tumbleweed.rpm">devel</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
     <th>libzen0</th>
-    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.x86_64.openSUSE_Tumbleweed.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.x86_64.openSUSE_Tumbleweed.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.x86_64.openSUSE_Tumbleweed.rpm">v0.4.33</a> <small>(<a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.x86_64.openSUSE_Tumbleweed.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
@@ -92,12 +92,12 @@ title: "Download MediaConch for openSUSE"
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo0-0.7.86.i586.openSUSE_Tumbleweed.rpm">v0.7.86</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.i586.openSUSE_Tumbleweed.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo0-0.7.86.i586.openSUSE_Tumbleweed.rpm">v0.7.86</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.i586.openSUSE_Tumbleweed.rpm">devel</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
     <th>libzen0</th>
-    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.i586.openSUSE_Tumbleweed.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.i586.openSUSE_Tumbleweed.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.i586.openSUSE_Tumbleweed.rpm">v0.4.33</a> <small>(<a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.i586.openSUSE_Tumbleweed.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
@@ -119,12 +119,12 @@ title: "Download MediaConch for openSUSE"
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo0-0.7.86.x86_64.openSUSE_13.2.rpm">v0.7.86</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.x86_64.openSUSE_13.2.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo0-0.7.86.x86_64.openSUSE_13.2.rpm">v0.7.86</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.x86_64.openSUSE_13.2.rpm">devel</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
     <th>libzen0</th>
-    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.x86_64.openSUSE_13.2.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.x86_64.openSUSE_13.2.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.x86_64.openSUSE_13.2.rpm">v0.4.33</a> <small>(<a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.x86_64.openSUSE_13.2.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
@@ -145,12 +145,12 @@ title: "Download MediaConch for openSUSE"
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo0-0.7.86.i586.openSUSE_13.2.rpm">v0.7.86</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.i586.openSUSE_13.2.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo0-0.7.86.i586.openSUSE_13.2.rpm">v0.7.86</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.i586.openSUSE_13.2.rpm">devel</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
     <th>libzen0</th>
-    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.i586.openSUSE_13.2.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.i586.openSUSE_13.2.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.i586.openSUSE_13.2.rpm">v0.4.33</a> <small>(<a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.i586.openSUSE_13.2.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
@@ -172,12 +172,12 @@ title: "Download MediaConch for openSUSE"
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo0-0.7.86.x86_64.openSUSE_13.1.rpm">v0.7.86</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.x86_64.openSUSE_13.1.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo0-0.7.86.x86_64.openSUSE_13.1.rpm">v0.7.86</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.x86_64.openSUSE_13.1.rpm">devel</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
     <th>libzen0</th>
-    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.x86_64.openSUSE_13.1.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.x86_64.openSUSE_13.1.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.x86_64.openSUSE_13.1.rpm">v0.4.33</a> <small>(<a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.x86_64.openSUSE_13.1.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
@@ -198,12 +198,12 @@ title: "Download MediaConch for openSUSE"
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo0-0.7.86.i586.openSUSE_13.1.rpm">v0.7.86</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.i586.openSUSE_13.1.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo0-0.7.86.i586.openSUSE_13.1.rpm">v0.7.86</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.i586.openSUSE_13.1.rpm">devel</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
     <th>libzen0</th>
-    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.i586.openSUSE_13.1.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.i586.openSUSE_13.1.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.i586.openSUSE_13.1.rpm">v0.4.33</a> <small>(<a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.i586.openSUSE_13.1.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
@@ -220,12 +220,12 @@ title: "Download MediaConch for openSUSE"
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.81/libmediainfo0-0.7.81.x86_64.openSUSE_Factory.rpm">v0.7.81</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.81/libmediainfo-devel-0.7.81.x86_64.openSUSE_Factory.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.81/libmediainfo0-0.7.81.x86_64.openSUSE_Factory.rpm">v0.7.81</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.81/libmediainfo-devel-0.7.81.x86_64.openSUSE_Factory.rpm">devel</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
     <th>libzen0</th>
-    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.32/libzen0-0.4.32.x86_64.openSUSE_Factory.rpm">v0.4.32</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.32/libzen-devel-0.4.32.x86_64.openSUSE_Factory.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.32/libzen0-0.4.32.x86_64.openSUSE_Factory.rpm">v0.4.32</a> <small>(<a href="//mediaarea.net/download/binary/libzen0/0.4.32/libzen-devel-0.4.32.x86_64.openSUSE_Factory.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
@@ -241,12 +241,12 @@ title: "Download MediaConch for openSUSE"
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.81/libmediainfo0-0.7.81.i586.openSUSE_Factory.rpm">v0.7.81</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.81/libmediainfo-devel-0.7.81.i586.openSUSE_Factory.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.81/libmediainfo0-0.7.81.i586.openSUSE_Factory.rpm">v0.7.81</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.81/libmediainfo-devel-0.7.81.i586.openSUSE_Factory.rpm">devel</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
     <th>libzen0</th>
-    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.32/libzen0-0.4.32.i586.openSUSE_Factory.rpm">v0.4.32</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.32/libzen-devel-0.4.32.i586.openSUSE_Factory.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.32/libzen0-0.4.32.i586.openSUSE_Factory.rpm">v0.4.32</a> <small>(<a href="//mediaarea.net/download/binary/libzen0/0.4.32/libzen-devel-0.4.32.i586.openSUSE_Factory.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
@@ -263,12 +263,12 @@ title: "Download MediaConch for openSUSE"
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.81/libmediainfo0-0.7.81.armv6l.openSUSE_Factory_ARM.rpm">v0.7.81</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.81/libmediainfo-devel-0.7.81.armv6l.openSUSE_Factory_ARM.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.81/libmediainfo0-0.7.81.armv6l.openSUSE_Factory_ARM.rpm">v0.7.81</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.81/libmediainfo-devel-0.7.81.armv6l.openSUSE_Factory_ARM.rpm">devel</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
     <th>libzen0</th>
-    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.32/libzen0-0.4.32.armv7l.openSUSE_Factory_ARM.rpm">v0.4.32</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.32/libzen-devel-0.4.32.armv7l.openSUSE_Factory_ARM.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.32/libzen0-0.4.32.armv7l.openSUSE_Factory_ARM.rpm">v0.4.32</a> <small>(<a href="//mediaarea.net/download/binary/libzen0/0.4.32/libzen-devel-0.4.32.armv7l.openSUSE_Factory_ARM.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
@@ -284,12 +284,12 @@ title: "Download MediaConch for openSUSE"
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.81/libmediainfo0-0.7.81.armv7l.openSUSE_Factory_ARM.rpm">v0.7.81</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.81/libmediainfo-devel-0.7.81.armv7l.openSUSE_Factory_ARM.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.81/libmediainfo0-0.7.81.armv7l.openSUSE_Factory_ARM.rpm">v0.7.81</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.81/libmediainfo-devel-0.7.81.armv7l.openSUSE_Factory_ARM.rpm">devel</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
     <th>libzen0</th>
-    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.32/libzen0-0.4.32.armv7l.openSUSE_Factory_ARM.rpm">v0.4.32</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.32/libzen-devel-0.4.32.armv7l.openSUSE_Factory_ARM.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.32/libzen0-0.4.32.armv7l.openSUSE_Factory_ARM.rpm">v0.4.32</a> <small>(<a href="//mediaarea.net/download/binary/libzen0/0.4.32/libzen-devel-0.4.32.armv7l.openSUSE_Factory_ARM.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
@@ -305,12 +305,12 @@ title: "Download MediaConch for openSUSE"
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.81/libmediainfo0-0.7.81.aarch64.openSUSE_Factory_ARM.rpm">v0.7.81</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.81/libmediainfo-devel-0.7.81.aarch64.openSUSE_Factory_ARM.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.81/libmediainfo0-0.7.81.aarch64.openSUSE_Factory_ARM.rpm">v0.7.81</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.81/libmediainfo-devel-0.7.81.aarch64.openSUSE_Factory_ARM.rpm">devel</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
     <th>libzen0</th>
-    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.32/libzen0-0.4.32.aarch64.openSUSE_Factory_ARM.rpm">v0.4.32</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.32/libzen-devel-0.4.32.aarch64.openSUSE_Factory_ARM.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.32/libzen0-0.4.32.aarch64.openSUSE_Factory_ARM.rpm">v0.4.32</a> <small>(<a href="//mediaarea.net/download/binary/libzen0/0.4.32/libzen-devel-0.4.32.aarch64.openSUSE_Factory_ARM.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
@@ -327,12 +327,12 @@ title: "Download MediaConch for openSUSE"
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo0-0.7.86.x86_64.openSUSE_11.4.rpm">v0.7.86</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.x86_64.openSUSE_11.4.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo0-0.7.86.x86_64.openSUSE_11.4.rpm">v0.7.86</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.x86_64.openSUSE_11.4.rpm">devel</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
     <th>libzen0</th>
-    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.x86_64.openSUSE_11.4.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.x86_64.openSUSE_11.4.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.x86_64.openSUSE_11.4.rpm">v0.4.33</a> <small>(<a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.x86_64.openSUSE_11.4.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
@@ -348,12 +348,12 @@ title: "Download MediaConch for openSUSE"
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo0-0.7.86.i586.openSUSE_11.4.rpm">v0.7.86</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.i586.openSUSE_11.4.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo0-0.7.86.i586.openSUSE_11.4.rpm">v0.7.86</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.i586.openSUSE_11.4.rpm">devel</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
     <th>libzen0</th>
-    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.i586.openSUSE_11.4.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.i586.openSUSE_11.4.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.i586.openSUSE_11.4.rpm">v0.4.33</a> <small>(<a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.i586.openSUSE_11.4.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 </tbody>

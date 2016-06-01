@@ -39,12 +39,12 @@ title: "Download MediaConch for SUSE Linux Enterprise"
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo0-0.7.86.x86_64.SLE_12_SP1.rpm">v0.7.86</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.x86_64.SLE_12_SP1.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo0-0.7.86.x86_64.SLE_12_SP1.rpm">v0.7.86</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.x86_64.SLE_12_SP1.rpm">devel</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
     <th>libzen0</th>
-    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.x86_64.SLE_12_SP1.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.x86_64.SLE_12_SP1.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.x86_64.SLE_12_SP1.rpm">v0.4.33</a> <small>(<a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.x86_64.SLE_12_SP1.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
@@ -66,12 +66,12 @@ title: "Download MediaConch for SUSE Linux Enterprise"
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo0-0.7.86.x86_64.SLE_12.rpm">v0.7.86</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.x86_64.SLE_12.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo0-0.7.86.x86_64.SLE_12.rpm">v0.7.86</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.x86_64.SLE_12.rpm">devel</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
     <th>libzen0</th>
-    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.x86_64.SLE_12.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.x86_64.SLE_12.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.x86_64.SLE_12.rpm">v0.4.33</a> <small>(<a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.x86_64.SLE_12.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
@@ -88,12 +88,12 @@ title: "Download MediaConch for SUSE Linux Enterprise"
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo0-0.7.86.x86_64.SLE_11_SP4.rpm">v0.7.86</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.x86_64.SLE_11_SP4.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo0-0.7.86.x86_64.SLE_11_SP4.rpm">v0.7.86</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.x86_64.SLE_11_SP4.rpm">devel</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
     <th>libzen0</th>
-    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.x86_64.SLE_11_SP4.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.x86_64.SLE_11_SP4.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.x86_64.SLE_11_SP4.rpm">v0.4.33</a> <small>(<a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.x86_64.SLE_11_SP4.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
@@ -109,12 +109,12 @@ title: "Download MediaConch for SUSE Linux Enterprise"
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo0-0.7.86.i586.SLE_11_SP4.rpm">v0.7.86</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.i586.SLE_11_SP4.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo0-0.7.86.i586.SLE_11_SP4.rpm">v0.7.86</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.i586.SLE_11_SP4.rpm">devel</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
     <th>libzen0</th>
-    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.i586.SLE_11_SP4.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.i586.SLE_11_SP4.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.i586.SLE_11_SP4.rpm">v0.4.33</a> <small>(<a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.i586.SLE_11_SP4.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
@@ -131,12 +131,12 @@ title: "Download MediaConch for SUSE Linux Enterprise"
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo0-0.7.86.x86_64.SLE_11_SP3.rpm">v0.7.86</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.x86_64.SLE_11_SP3.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo0-0.7.86.x86_64.SLE_11_SP3.rpm">v0.7.86</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.x86_64.SLE_11_SP3.rpm">devel</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
     <th>libzen0</th>
-    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.x86_64.SLE_11_SP3.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.x86_64.SLE_11_SP3.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.x86_64.SLE_11_SP3.rpm">v0.4.33</a> <small>(<a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.x86_64.SLE_11_SP3.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
@@ -152,12 +152,12 @@ title: "Download MediaConch for SUSE Linux Enterprise"
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo0-0.7.86.i586.SLE_11_SP3.rpm">v0.7.86</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.i586.SLE_11_SP3.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo0-0.7.86.i586.SLE_11_SP3.rpm">v0.7.86</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.i586.SLE_11_SP3.rpm">devel</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
     <th>libzen0</th>
-    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.i586.SLE_11_SP3.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.i586.SLE_11_SP3.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.i586.SLE_11_SP3.rpm">v0.4.33</a> <small>(<a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.i586.SLE_11_SP3.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
@@ -174,12 +174,12 @@ title: "Download MediaConch for SUSE Linux Enterprise"
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo0-0.7.86.x86_64.SLE_11_SP2.rpm">v0.7.86</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.x86_64.SLE_11_SP2.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo0-0.7.86.x86_64.SLE_11_SP2.rpm">v0.7.86</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.x86_64.SLE_11_SP2.rpm">devel</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
     <th>libzen0</th>
-    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.x86_64.SLE_11_SP2.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.x86_64.SLE_11_SP2.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.x86_64.SLE_11_SP2.rpm">v0.4.33</a> <small>(<a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.x86_64.SLE_11_SP2.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
@@ -195,12 +195,12 @@ title: "Download MediaConch for SUSE Linux Enterprise"
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo0-0.7.86.i586.SLE_11_SP2.rpm">v0.7.86</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.i586.SLE_11_SP2.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo0-0.7.86.i586.SLE_11_SP2.rpm">v0.7.86</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.i586.SLE_11_SP2.rpm">devel</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
     <th>libzen0</th>
-    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.i586.SLE_11_SP2.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.i586.SLE_11_SP2.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.i586.SLE_11_SP2.rpm">v0.4.33</a> <small>(<a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.i586.SLE_11_SP2.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
@@ -216,12 +216,12 @@ title: "Download MediaConch for SUSE Linux Enterprise"
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo0-0.7.86.ppc64.SLE_11_SP2.rpm">v0.7.86</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.ppc64.SLE_11_SP2.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo0-0.7.86.ppc64.SLE_11_SP2.rpm">v0.7.86</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.ppc64.SLE_11_SP2.rpm">devel</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
     <th>libzen0</th>
-    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.ppc64.SLE_11_SP2.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.ppc64.SLE_11_SP2.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.ppc64.SLE_11_SP2.rpm">v0.4.33</a> <small>(<a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.ppc64.SLE_11_SP2.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
@@ -238,12 +238,12 @@ title: "Download MediaConch for SUSE Linux Enterprise"
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo0-0.7.86.x86_64.SLE_11_SP1.rpm">v0.7.86</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.x86_64.SLE_11_SP1.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo0-0.7.86.x86_64.SLE_11_SP1.rpm">v0.7.86</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.x86_64.SLE_11_SP1.rpm">devel</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
     <th>libzen0</th>
-    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.x86_64.SLE_11_SP1.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.x86_64.SLE_11_SP1.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.x86_64.SLE_11_SP1.rpm">v0.4.33</a> <small>(<a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.x86_64.SLE_11_SP1.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
@@ -259,12 +259,12 @@ title: "Download MediaConch for SUSE Linux Enterprise"
 </tr>
 <tr>
     <th>libmediainfo0</th>
-    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo0-0.7.86.i586.SLE_11_SP1.rpm">v0.7.86</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.i586.SLE_11_SP1.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo0-0.7.86.i586.SLE_11_SP1.rpm">v0.7.86</a> <small>(<a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.i586.SLE_11_SP1.rpm">devel</a>)</small></td>
     <td>requires libzen0</td>
 </tr>
 <tr>
     <th>libzen0</th>
-    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.i586.SLE_11_SP1.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.i586.SLE_11_SP1.rpm">devel</a>)</small></td>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.i586.SLE_11_SP1.rpm">v0.4.33</a> <small>(<a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.i586.SLE_11_SP1.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 </tbody>

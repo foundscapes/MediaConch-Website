@@ -21,17 +21,17 @@ title: "Download MediaConch for Microsoft Windows"
 <tbody>
 
 <tr>
-    <th rowspan="10">Vista, 7, 8, 10</th>
+    <th rowspan="9">Vista, 7, 8, 10</th>
     <th>Universal installer (32/64 bit)</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
     <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.05/MediaConch_GUI_16.05_Windows.exe">v16.05</a></td>
-    <td>If you don't know which one to download, download this one<?php echo $AdSupported; ?></td>
+    <td>If you don't know which one to download, download this one</td>
 </tr>
 <tr>
     <th rowspan="4">32 bit</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
     <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.05/MediaConch_GUI_16.05_Windows.exe">v16.05 Universal (32/64 bit)</a> <small> (<a href="//mediaarea.net/download/binary/mediaconch-gui/16.05/MediaConch_GUI_16.05_Windows_i386_WithoutInstaller.7z">32 bit only without installer</a>)</small></td>
-    <td><?php echo $AdSupported; ?></td>
+    <td></td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
@@ -52,7 +52,7 @@ title: "Download MediaConch for Microsoft Windows"
     <th rowspan="4">64 bit</th>
     <th><abbr title="Graphical User Interface">GUI</abbr></th>
     <td><a href="//mediaarea.net/download/binary/mediaconch-gui/16.05/MediaConch_GUI_16.05_Windows.exe">v16.05 Universal (32/64 bit)</a> <small>(<a href="//mediaarea.net/download/binary/mediaconch-gui/16.05/MediaConch_GUI_16.05_Windows_x64_WithoutInstaller.7z">64 bit only without installer</a>)</small></td>
-    <td><?php echo $AdSupported; ?></td>
+    <td></td>
 </tr>
 <tr>
     <th><abbr title="Command Line Interface">CLI</abbr></th>
