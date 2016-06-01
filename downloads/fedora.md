@@ -40,11 +40,11 @@ title: "Download MediaConch for Fedora"
 <tr>
     <th>libmediainfo</th>
     <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-0.7.86.x86_64.Fedora_23.rpm">v0.7.86</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.x86_64.Fedora_23.rpm">devel</a>)</small></td>
-    <td>requires libzen0</td>
+    <td>requires libzen</td>
 </tr>
 <tr>
-    <th>libzen0</th>
-    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.x86_64.Fedora_23.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.x86_64.Fedora_23.rpm">devel</a>)</small></td>
+    <th>libzen</th>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen-0.4.33.x86_64.Fedora_23.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.x86_64.Fedora_23.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
@@ -66,11 +66,11 @@ title: "Download MediaConch for Fedora"
 <tr>
     <th>libmediainfo</th>
     <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-0.7.86.i686.Fedora_23.rpm">v0.7.86</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.i686.Fedora_23.rpm">devel</a>)</small></td>
-    <td>requires libzen0</td>
+    <td>requires libzen</td>
 </tr>
 <tr>
-    <th>libzen0</th>
-    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.i686.Fedora_23.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.i686.Fedora_23.rpm">devel</a>)</small></td>
+    <th>libzen</th>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen-0.4.33.i686.Fedora_23.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.i686.Fedora_23.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
@@ -93,11 +93,11 @@ title: "Download MediaConch for Fedora"
 <tr>
     <th>libmediainfo</th>
     <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-0.7.86.x86_64.Fedora_22.rpm">v0.7.86</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.x86_64.Fedora_22.rpm">devel</a>)</small></td>
-    <td>requires libzen0</td>
+    <td>requires libzen</td>
 </tr>
 <tr>
-    <th>libzen0</th>
-    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.x86_64.Fedora_22.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.x86_64.Fedora_22.rpm">devel</a>)</small></td>
+    <th>libzen</th>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen-0.4.33.x86_64.Fedora_22.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.x86_64.Fedora_22.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
@@ -119,11 +119,11 @@ title: "Download MediaConch for Fedora"
 <tr>
     <th>libmediainfo</th>
     <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-0.7.86.i686.Fedora_22.rpm">v0.7.86</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.i686.Fedora_22.rpm">devel</a>)</small></td>
-    <td>requires libzen0</td>
+    <td>requires libzen</td>
 </tr>
 <tr>
-    <th>libzen0</th>
-    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.i686.Fedora_22.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.i686.Fedora_22.rpm">devel</a>)</small></td>
+    <th>libzen</th>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen-0.4.33.i686.Fedora_22.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.i686.Fedora_22.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
@@ -146,11 +146,11 @@ title: "Download MediaConch for Fedora"
 <tr>
     <th>libmediainfo</th>
     <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-0.7.86.x86_64.Fedora_21.rpm">v0.7.86</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.x86_64.Fedora_21.rpm">devel</a>)</small></td>
-    <td>requires libzen0</td>
+    <td>requires libzen</td>
 </tr>
 <tr>
-    <th>libzen0</th>
-    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.x86_64.Fedora_21.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.x86_64.Fedora_21.rpm">devel</a>)</small></td>
+    <th>libzen</th>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen-0.4.33.x86_64.Fedora_21.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.x86_64.Fedora_21.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
@@ -172,11 +172,11 @@ title: "Download MediaConch for Fedora"
 <tr>
     <th>libmediainfo</th>
     <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-0.7.86.i686.Fedora_21.rpm">v0.7.86</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.i686.Fedora_21.rpm">devel</a>)</small></td>
-    <td>requires libzen0</td>
+    <td>requires libzen</td>
 </tr>
 <tr>
-    <th>libzen0</th>
-    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.i686.Fedora_21.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.i686.Fedora_21.rpm">devel</a>)</small></td>
+    <th>libzen</th>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen-0.4.33.i686.Fedora_21.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.i686.Fedora_21.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
@@ -199,11 +199,11 @@ title: "Download MediaConch for Fedora"
 <tr>
     <th>libmediainfo</th>
     <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-0.7.86.x86_64.Fedora_20.rpm">v0.7.86</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.x86_64.Fedora_20.rpm">devel</a>)</small></td>
-    <td>requires libzen0</td>
+    <td>requires libzen</td>
 </tr>
 <tr>
-    <th>libzen0</th>
-    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.x86_64.Fedora_20.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.x86_64.Fedora_20.rpm">devel</a>)</small></td>
+    <th>libzen</th>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen-0.4.33.x86_64.Fedora_20.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.x86_64.Fedora_20.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 <tr>
@@ -225,11 +225,11 @@ title: "Download MediaConch for Fedora"
 <tr>
     <th>libmediainfo</th>
     <td><a href="//mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-0.7.86.i686.Fedora_20.rpm">v0.7.86</a> <small>(<a href="https://mediaarea.net/download/binary/libmediainfo0/0.7.86/libmediainfo-devel-0.7.86.i686.Fedora_20.rpm">devel</a>)</small></td>
-    <td>requires libzen0</td>
+    <td>requires libzen</td>
 </tr>
 <tr>
-    <th>libzen0</th>
-    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen0-0.4.33.i686.Fedora_20.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.i686.Fedora_20.rpm">devel</a>)</small></td>
+    <th>libzen</th>
+    <td><a href="//mediaarea.net/download/binary/libzen0/0.4.33/libzen-0.4.33.i686.Fedora_20.rpm">v0.4.33</a> <small>(<a href="https://mediaarea.net/download/binary/libzen0/0.4.33/libzen-devel-0.4.33.i686.Fedora_20.rpm">devel</a>)</small></td>
     <td>&nbsp;</td>
 </tr>
 </tbody>
