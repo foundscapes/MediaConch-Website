@@ -36,9 +36,15 @@ A FREE three day symposium focused on Matroska and FFV1 for use in digital audio
 
 [Potsdamer Straße 2, 10785 Berlin](https://www.google.com/maps/place/Potsdamer+Stra%C3%9Fe+2,+10785+Berlin,+Germany/@52.5096511,13.3648205,15z/data=!4m5!3m4!1s0x47a851b61bf74d65:0xe6356c435ea83c13!8m2!3d52.5096511!4d13.3735752)
 
+[Zuse Institute Berlin](http://www.zib.de/)
+
+[Takustraße 7, 14195 Berlin](https://www.google.com/maps/place/Konrad-Zuse-Zentrum+f%C3%BCr+Informationstechnik+Berlin/@52.4561009,13.2959837,17z/data=!3m1!4b1!4m5!3m4!1s0x47a85a657d4919af:0x46163d5d4c3fc235!8m2!3d52.4561009!4d13.2981777)
+
 \*Parts of the workshop will also be accessible remotely
 
 **Registration:** [Register here](https://docs.google.com/forms/d/1ic3LVh1xBZGuzIXSFbczIRcRHNAox3cbi2RDHzY8doo/edit?usp=drive_web) (it’s free!).
+
+**Hotel:** We recommend nearby Motel One. [Hotel Website](http://www.motel-one.com/en/hotels/berlin/berlin-potsdamer-platz) [Map](https://www.google.com/maps/place/Hotel+Motel+One+Berlin+Potsdamer+Platz/@52.5100019,13.3787898,17z/data=!3m2!4b1!5s0x47a851cf0179e5fb:0xa25540743a8a2f04!4m5!3m4!1s0x47a851cee52096a7:0xc859a1be3c2f2346!8m2!3d52.5099987!4d13.3809785)
  
 ## Schedule 
 
