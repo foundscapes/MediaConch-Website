@@ -58,9 +58,7 @@ The Zuse Institute Berlin, Wikimedia Commons
 
 To view a more comprehensive schedule, please [click here](https://docs.google.com/spreadsheets/d/1XRgwKwF6Y2LPy5h-peCag9knn4WZcehI9TI9Qs9a9i4/edit?usp=sharing)
 
-To sign up to give a lightning talk, please [click here](https://docs.google.com/spreadsheets/d/1U1USrEpG1QjC_1hBEYRRLTtrMsfHrY4vcKxAH3o_8M8/edit?usp=sharing)
-
-To sign up to give a workshop or demonstration [click here](https://docs.google.com/spreadsheets/d/1AN0In_QWGQQoUeq8PZUxzlzNMnoDPtJLBGuuTK3yDks/edit?usp=sharing)
+To sign up to give a lightning talk or a workshop/demonstration, please [click here](https://docs.google.com/spreadsheets/d/1U1USrEpG1QjC_1hBEYRRLTtrMsfHrY4vcKxAH3o_8M8/edit?usp=sharing)
 
 The schedule of the event is under development, if you have an idea for the agenda item or presentation on FFV1 and/or Matroska or audiovisual digital preservation, please feel welcome to contact [info@mediaarea.net](mailto:info@mediaarea.net) for your ideas or share thoughts via comments on our working document.
 
