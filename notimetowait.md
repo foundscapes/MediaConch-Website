@@ -32,11 +32,19 @@ A FREE three day symposium focused on Matroska and FFV1 for use in digital audio
 
 
 ## Where
-[Deutsche Kinemathek – Museum für Film und Fernsehen](https://www.deutsche-kinemathek.de/)
+[Deutsche Kinemathek – Museum für Film und Fernsehen](https://www.deutsche-kinemathek.de/)  
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Deutsche_Kinemathek_2.jpg/3264px-Deutsche_Kinemathek_2.jpg" width="500" > 
+<br>
+The Deutsche Kinemathek – Museum für Film und Fernsehen, Wikimedia Commons
 
 [Potsdamer Straße 2, 10785 Berlin](https://www.google.com/maps/place/Potsdamer+Stra%C3%9Fe+2,+10785+Berlin,+Germany/@52.5096511,13.3648205,15z/data=!4m5!3m4!1s0x47a851b61bf74d65:0xe6356c435ea83c13!8m2!3d52.5096511!4d13.3735752)
 
 [Zuse Institute Berlin](http://www.zib.de/)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Freie_Universitaet_Berlin_-_Konrad-Zuse-Zentrum_fuer_Informationstechnik_Berlin_-_Campus_1.jpg" width="500" >
+<br>
+The Zuse Institute Berlin, Wikimedia Commons
 
 [Takustraße 7, 14195 Berlin](https://www.google.com/maps/place/Konrad-Zuse-Zentrum+f%C3%BCr+Informationstechnik+Berlin/@52.4561009,13.2959837,17z/data=!3m1!4b1!4m5!3m4!1s0x47a85a657d4919af:0x46163d5d4c3fc235!8m2!3d52.4561009!4d13.2981777)
 
@@ -48,81 +56,11 @@ A FREE three day symposium focused on Matroska and FFV1 for use in digital audio
  
 ## Schedule 
 
-<table style="width:80%">
-      <tbody><tr>
-        <th colspan="2">18 July | Day 1</th>
-      </tr>
-      <tr>
-        <td>9:00</td>
-        <td>Day 1 begins, registration and breakfast</td>
-      </tr>
-      <tr>
-        <td>9:15</td>
-        <td>Sessions</td>
-      </tr>
-      <tr>
-        <td>12:00</td>
-        <td>Lunch provided</td>
-      </tr>
-      <tr>
-        <td>13:00</td>
-        <td>Sessions, lightning talks</td>
-      </tr>
-      <tr>
-        <td>17:00</td>
-        <td>Day 1 ends</td>
-      </tr>
-      <tr class="day2">
-        <th colspan="2">19 July | Day 2</th>
-      </tr>
-      <tr>
-        <td>9:00</td>
-        <td>Day 2 begins, breakfast</td>
-      </tr>
-      <tr>
-        <td>9:15</td>
-        <td>Working group sessions</td>
-      </tr>
-      <tr>
-        <td>12:00</td>
-        <td>Break for lunch</td>
-      </tr>
-      <tr>
-        <td>13:00</td>
-        <td>Unconferencing time</td>
-      </tr>
-      <tr>
-        <td>17:15</td>
-        <td>Wrap-up, day ends</td>
-      </tr>
-      <tr class="day3">
-        <th colspan="2">20 July | Day 3</th>
-      </tr>
-      <tr>
-        <td>9:00</td>
-        <td>Day 2 begins, coffee</td>
-      </tr>
-      <tr>
-        <td>9:15</td>
-        <td>CELLAR Working Group meeting</td>
-      </tr>
-      <tr>
-        <td>12:00</td>
-        <td>Break for lunch</td>
-      </tr>
-      <tr>
-        <td>13:00</td>
-        <td>CELLAR Working Group meeting</td>
-      </tr>
-      <tr>
-        <td>17:30</td>
-        <td>Day ends</td>
-      </tr>
-    </tbody></table>
-  
-## Schedule details
+To view a more comprehensive schedule, please [click here](https://docs.google.com/spreadsheets/d/1XRgwKwF6Y2LPy5h-peCag9knn4WZcehI9TI9Qs9a9i4/edit?usp=sharing)
 
-*Day 3:* The structure of this day is dependent on the IETF CELLAR Working Group meeting. Those paying for IETF96 registration should attend the CELLAR working group meeting. The space at the Deutsche Kinemathek shall be used to facilitate remote participation.
+To sign up to give a lightning talk, please [click here](https://docs.google.com/spreadsheets/d/1U1USrEpG1QjC_1hBEYRRLTtrMsfHrY4vcKxAH3o_8M8/edit?usp=sharing)
+
+To sign up to give a workshop or demonstration [click here](https://docs.google.com/spreadsheets/d/1AN0In_QWGQQoUeq8PZUxzlzNMnoDPtJLBGuuTK3yDks/edit?usp=sharing)
 
 The schedule of the event is under development, if you have an idea for the agenda item or presentation on FFV1 and/or Matroska or audiovisual digital preservation, please feel welcome to contact [info@mediaarea.net](mailto:info@mediaarea.net) for your ideas or share thoughts via comments on our working document.
 
