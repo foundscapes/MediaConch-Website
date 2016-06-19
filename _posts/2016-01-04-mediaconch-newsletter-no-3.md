@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "MediaConch Newsletter No. 3 (4 Jan 2015)"
+title:  "MediaConch Newsletter No. 3 (4 Jan 2016)"
 date:   2016-01-04 13:30:00 CET
 categories: newsletter
 ---
