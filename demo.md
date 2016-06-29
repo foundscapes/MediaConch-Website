@@ -151,7 +151,7 @@ XSL Policy (Matroska): [Preservation Master File recommended specifications - Ma
 
 To test, run the following test file on a command line interface with the associated test files and policy document:
 
-`mediaconch -mc NYULibraries_KMVFFV1.mkv -p NYULibraries_KMVFFV1.xsl`
+`mediaconch -mc NYULibraries_MKVFFV1.mkv -p NYULibraries_MKVFFV1.xsl`
 
 
 
