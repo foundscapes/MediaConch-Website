@@ -10,22 +10,19 @@ title: "Download MediaConch"
 
 ### GUI, Online, CLI, Server
 
-MediaConch XML format v0.2  
-Improved Matroska tests  
-Improved HTML display  
-FFV1 parsing speed improvement  
+Revisited HTML report, more compact and with a summary per test  
+Matroska files with CodecPrivate element before CodecID element where not always correctly parsed  
+Performance improvement  
 
 ### GUI
 
-Option for applying a policy to all open files  
-List of values for several elements in the policy editor  
-Minor UI improvements/fixes  
+Create a policy from MediaInfo report  
+Revisited Display window  
+Minor UI fixes on the main window  
 
 ### Online
 
-Option for applying a policy to all open files  
-User settings : default policy, default display, default verbosity  
-Minor UI improvements/fixes  
+Create a policy from MediaInfo report  
 
 ### Historical Release Notes
 
